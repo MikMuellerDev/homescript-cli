@@ -9,6 +9,7 @@ require (
 )
 
 require (
+	github.com/BurntSushi/toml v1.1.0 // indirect
 	github.com/chzyer/logex v1.2.0 // indirect
 	github.com/chzyer/test v0.0.0-20210722231415-061457976a23 // indirect
 	github.com/mattn/go-colorable v0.1.9 // indirect
@@ -18,7 +19,7 @@ require (
 )
 
 require (
-	github.com/MikMuellerDev/smarthome_sdk v0.2.0
+	github.com/MikMuellerDev/smarthome_sdk v0.4.0
 	github.com/briandowns/spinner v1.18.1
 	github.com/fatih/color v1.13.0
 	github.com/inconshreveable/mousetrap v1.0.0 // indirect
