@@ -1,4 +1,5 @@
 # homescript-cli
+# This repository has been transferred to the [Smarthome](https://github.com/smarthome-go/cli) organization.
 
 ## REPL
 Homescript-cli's original purpose is to represent a powerful command-line-interface for the Smarthome server.
